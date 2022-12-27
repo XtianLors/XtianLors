@@ -7,4 +7,4 @@ I have huge interest in simulation, CAE and FEM.
 
 [![Xtianlors](https://github-readme-stats.vercel.app/api?username=XtianLors)](https://github.com/XtianLors/github-readme-stats)
 
-![Linkedin: CrisDanielLopezRios](https://img.shields.io/badge/-CristianDLopez-blue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)
+![Linkedin: CrisDanielLopezRios](https://img.shields.io/badge/-Cris-blue-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)
