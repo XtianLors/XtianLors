@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> I'm Cristian Daniel López Rios <img src="https://media.giphy.com/media/eJLQ2EDWIPHyJJoAzk/giphy.gif" width="50"/></h2>
 
-[![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)&nbsp[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
+[![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
 
 ## Who am I?
 
@@ -33,8 +33,7 @@
 <!--
 Separation
 -->
-[![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)&nbsp
-[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
+[![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
 <br>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=XtianLors.XtianLors) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XtianLors) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/XtianLors)
 
