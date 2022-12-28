@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-* I am a student of Chemical Engineering. I specialized on metallurgy.
+* I am a student of Chemical Engineering. I specialized in metallurgy.
 
 * I have huge interest in simulation, CAE and FEA.
 
