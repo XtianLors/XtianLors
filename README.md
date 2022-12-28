@@ -36,7 +36,9 @@ Separation
 [![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
 
 <br>
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=XtianLors.XtianLors)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XtianLors)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/XtianLors)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=XtianLors.XtianLors) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XtianLors)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/XtianLors)
 
 <!-- github profile inspired by:
 
