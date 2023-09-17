@@ -9,19 +9,12 @@
 * I have huge interest in simulation, CAE and FEA.
 
 
-### What I always play with:
-* LISP
+### The languages I use:
 * Python
-* R
-
-### What I sometimes play with:
-* Clojure
-* C#
+* C
 
 ### Learning:
-* Lua
-* Game Dev
-* Blender
+* R
 
 ### Quick stats about me
 | Github Stats | Top Languages |
