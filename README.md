@@ -6,7 +6,7 @@
 
 * I am a student of Chemical Engineering. I specialized in metallurgy.
 
-* I have huge interest in simulation, CAE and FEA.
+* I have huge interest in simulation, Computer Aided Engineering and Finite Element Analysis.
 
 
 ### The languages I use:
