@@ -26,7 +26,6 @@ Separation
 -->
 [![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=[XtianLors](https://github.com/XtianLors/XtianLors/))
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/XtianLors)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/XtianLors)
 
@@ -38,6 +37,7 @@ Separation
 ![GitHub followers](https://img.shields.io/github/followers/XtianLors?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=XtianLors.XtianLors)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=[XtianLors](https://github.com/XtianLors/XtianLors/))
 -->
 
 <!--  Interest in the display of this README? check out the following repos:
