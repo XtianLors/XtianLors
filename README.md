@@ -1,5 +1,5 @@
 <h2>
-<figure><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/></figure>figure> I'm Cristian Daniel López Rios <img src="https://media.giphy.com/media/eJLQ2EDWIPHyJJoAzk/giphy.gif" width="50"/>
+<figure><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/></figure> I'm Cristian Daniel López Rios <img src="https://media.giphy.com/media/eJLQ2EDWIPHyJJoAzk/giphy.gif" width="50"/>
 </h2>
 
 [![Linkedin: CrisLo](https://img.shields.io/badge/-cristiand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-daniel-lópez-rios-48b3ba128)](https://www.linkedin.com/in/cristiand-lopezrios)[![Gmail Badge](https://img.shields.io/badge/-crisdalori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisdalori@gmail.com)](mailto:crisdalori@gmail.com)
