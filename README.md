@@ -1,6 +1,6 @@
 <header>
 <h2>
-  <figure><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/>      
+  <figure><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30">      
   </figure> 
       I'm Cristian Daniel López Rios 
     <img src="https://media.giphy.com/media/eJLQ2EDWIPHyJJoAzk/giphy.gif" width="50"/>
