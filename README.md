@@ -1,4 +1,4 @@
-  <figure><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30">      
+  <figure><img src="https://slackmojis.com/emojis/49471-secure" width="30">      
   </figure>
 <header> 
   <hgroup>
