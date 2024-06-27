@@ -1,4 +1,4 @@
-  <figure><img src="https://slackmojis.com/emojis/49471-secure" width="30">      
+  <figure><img src="(https://pngtree.com/freebackground/8-best-free-mountain-background-images-4k-wallpapers_2783525.html)" width="30">      
   </figure>
 <header> 
   <hgroup>
