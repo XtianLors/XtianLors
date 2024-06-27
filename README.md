@@ -1,5 +1,5 @@
-  <figure><img src="https://www.freepik.com/free-vector/flat-design-mountain-range-silhouette_45123202.htm#query=mountain%20svg&position=3&from_view=keyword&track=ais_user&uuid=c2dc31f3-3536-4a14-a14d-a2618a6e4067" width="30">      
-  </figure>
+<!--  <figure><img src="https://www.freepik.com/free-vector/flat-design-mountain-range-silhouette_45123202.htm#query=mountain%20svg&position=3&from_view=keyword&track=ais_user&uuid=c2dc31f3-3536-4a14-a14d-a2618a6e4067" width="30">   
+  </figure> -->
 <header> 
   <hgroup>
   <h2>I'm Cristian Daniel López Rios</h2>
