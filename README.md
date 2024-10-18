@@ -12,7 +12,7 @@
 
 ## Who am I?
 
-* I am a student of Chemical Engineering. I specialized in metallurgy.
+* I am a student of Data Science. I Love Time Series.
 
 * I have huge interest in simulation, Computer Aided Engineering and Finite Element Analysis.
 
