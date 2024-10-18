@@ -14,7 +14,7 @@
 
 * I am a student of Data Science. I Love Time Series.
 
-* I have huge interest in simulation, Computer Aided Engineering and Finite Element Analysis.
+<!-- * I have huge interest in simulation, Computer Aided Engineering and Finite Element Analysis. -->
 
 
 ### The languages I use:
